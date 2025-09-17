@@ -34,5 +34,36 @@ Este repositório documenta meu domínio e experiência no ecossistema Python, a
 Essas ferramentas representam o núcleo do meu desenvolvimento Python, cobrindo backend, desktop, jogos, IA, ciência de dados e dashboards interativos.
 
 ---
+# 🌐 Meus Conhecimentos em Frontend & Backend de Dados
 
+Este documento lista as principais tecnologias que domino para desenvolvimento web, tanto no frontend (cliente) quanto na manipulação e gestão de dados no backend. Confira abaixo um resumo das stacks e suas aplicações:
+
+---
+
+## 🌐 FRONTEND (Cliente)
+- **HTML**  
+  Estrutura e semântica de páginas web, garantindo acessibilidade e SEO.
+- **CSS**  
+  Estilização, layout responsivo (mobile-first), animações e adaptação visual.
+- **JavaScript (JS)**  
+  Interatividade, lógica de programação no navegador, manipulação do DOM e consumo de APIs REST.
+
+---
+
+## 🗄️ BACKEND / BANCO DE DADOS
+- **SQL**  
+  Linguagem universal de consulta e manipulação de dados relacionais.
+- **SQL Server**  
+  Solução corporativa da Microsoft, integração com .NET, BI (Business Intelligence) e Azure.
+- **MySQL**  
+  Banco de dados open source amplamente usado em web, startups, LAMP stack e WordPress.
+- **MariaDB**  
+  Alternativa open source ao MySQL, foco em ética, transparência e uso em ambientes Linux.
+
+---
+
+> **Resumo:**  
+Minhas habilidades abrangem desde a criação de interfaces ricas e responsivas no frontend até o domínio de bancos de dados relacionais robustos e eficientes no backend, garantindo o ciclo completo do desenvolvimento web.
+
+---
 Sinta-se à vontade para explorar meus projetos e contribuições!
